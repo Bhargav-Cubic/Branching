@@ -1,0 +1,3 @@
+who
+whoami
+sudo su
